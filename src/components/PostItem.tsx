@@ -1,3 +1,5 @@
+"use client";
+
 import Link from 'next/link';
 import { Post } from '../types/post';
 import { truncate } from '../utils/truncate';

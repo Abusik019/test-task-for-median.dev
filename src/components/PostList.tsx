@@ -1,3 +1,5 @@
+"use client";
+
 import { Post } from '../types/post';
 import { PostItem } from './PostItem';
 
